@@ -4,7 +4,7 @@
 
 Turns Yamato into Thief, the Marathon runner, with her full outfit, portraits and voice.
 
-**[Download Thief 1.1](https://github.com/Vyrena/marathon-thief-yamato/releases/latest/download/Thief_Default_Yamato.zip)** | **[Install guide](https://vyrena.github.io/marathon-thief-yamato/)**
+**[Download Default](https://github.com/Vyrena/marathon-thief-yamato/releases/latest/download/Thief_Default_Yamato.zip)** | **[Download endoFLEX](https://github.com/Vyrena/marathon-thief-yamato/releases/latest/download/Thief_endoFLEX_Yamato.zip)** | **[Download White Rabbit](https://github.com/Vyrena/marathon-thief-yamato/releases/latest/download/Thief_WhiteRabbit_Yamato.zip)** | **[Install guide](https://vyrena.github.io/marathon-thief-yamato/)**
 
 ## Install
 1. Download the zip. Keep it zipped.
