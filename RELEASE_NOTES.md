@@ -26,9 +26,9 @@ Each zip is a separate mod. Enable only one.
 Full instructions: https://vyrena.github.io/marathon-thief-yamato/
 
 ### SHA-256
-- Thief_Default_Yamato.zip: `49cfd67fa2e309bc3dc04a27f4fd2b1f81c9c0306c8dd6338757cd8c39ec6500`
-- Thief_endoFLEX_Yamato.zip: `77c99ef327c64185256dd8117268cd174274eeb68183d904463cfc80ed2f6baa`
-- Thief_WhiteRabbit_Yamato.zip: `792786473624321eeb9a9697a5a0dd801be9ae58297aa4a4059e620aa1a4f2c8`
+- Thief_Default_Yamato.zip: `e56e2bcf739705b1bc5375a22546ef6eca910cdf32613eff301aad269caedea2`
+- Thief_endoFLEX_Yamato.zip: `69515626a765850fb1727473c176e63da5219ef86810e76d4fe0069089643443`
+- Thief_WhiteRabbit_Yamato.zip: `c6b95359f0e1a152fc5b8b9d4a7c9f62568087c576a033bd12d417e53bd18db6`
 - Thief_KashaYokai_Yamato.zip: `b4042dff83a05d542337030180ff03b89a057146ba73d9b74038c61e498de142`
 - Thief_SlickGetter_Yamato.zip: `e33f36abc5173840a6a974d1aa9dc79c40c7013c217ed109b229ab37219c0f32`
 - Thief_TrespassProtocol_Yamato.zip: `ef62416536686b732b26edb3d83aa39e09fea7722edde1bde4ebe5d83a036c1c`

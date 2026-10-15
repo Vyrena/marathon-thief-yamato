@@ -25,5 +25,11 @@ Each look is its own mod. Enable only one. **[Install guide](https://vyrena.gith
 
 Manual install, updating and troubleshooting: https://vyrena.github.io/marathon-thief-yamato/
 
+## In game
+![Hero select, Default look](assets/shot-1.webp)
+![In the hideout](assets/shot-2.webp)
+![In the hideout](assets/shot-3.webp)
+![In the hideout](assets/shot-4.webp)
+
 ## Credits
 Made by Vyrena, with heavy AI assistance. Unofficial community port. Marathon, its characters and assets belong to Bungie. Deadlock belongs to Valve. Not affiliated with or endorsed by either.
