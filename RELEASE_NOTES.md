@@ -1,8 +1,9 @@
-## Marathon Thief for Yamato 1.3
+## Marathon Thief for Yamato 1.4
 
-- Seven more looks: Kasha Yōkai, Slick Getter, Trespass Protocol, Acid Abyss, Midnight Decay, Vox Nocturna and Achromatic Rush.
-- Kasha Yōkai uses its own voice lines from Marathon in place of Thief's.
-- Default, endoFLEX and White Rabbit are the same as in 1.2.
+- Fixed the camera after Deadlock's Violet update. It froze in place or ended up inside Yamato.
+- All ten looks are otherwise the same as in 1.3.
+
+If you already have the mod, download your look again and replace the old copy.
 
 ### Pick one look
 - **Thief_Default_Yamato.zip**: Default. Her standard Marathon outfit: white puffer jacket, visor and black hair.
@@ -26,13 +27,13 @@ Each zip is a separate mod. Enable only one.
 Full instructions: https://vyrena.github.io/marathon-thief-yamato/
 
 ### SHA-256
-- Thief_Default_Yamato.zip: `e56e2bcf739705b1bc5375a22546ef6eca910cdf32613eff301aad269caedea2`
-- Thief_endoFLEX_Yamato.zip: `69515626a765850fb1727473c176e63da5219ef86810e76d4fe0069089643443`
-- Thief_WhiteRabbit_Yamato.zip: `c6b95359f0e1a152fc5b8b9d4a7c9f62568087c576a033bd12d417e53bd18db6`
-- Thief_KashaYokai_Yamato.zip: `b4042dff83a05d542337030180ff03b89a057146ba73d9b74038c61e498de142`
-- Thief_SlickGetter_Yamato.zip: `e33f36abc5173840a6a974d1aa9dc79c40c7013c217ed109b229ab37219c0f32`
-- Thief_TrespassProtocol_Yamato.zip: `ef62416536686b732b26edb3d83aa39e09fea7722edde1bde4ebe5d83a036c1c`
-- Thief_AcidAbyss_Yamato.zip: `1de9a55ccd877ec1561b273c633abade1daaebb447a09ed750f7904017987c62`
-- Thief_MidnightDecay_Yamato.zip: `0d71cdd69acb027f18bbb4abf482c8c796fae40c84efe32d90033d0c5b7dbc56`
-- Thief_VoxNocturna_Yamato.zip: `78173576548e893af735af06a1aa8863e365551a9a4adda897a623fef66da6eb`
-- Thief_AchromaticRush_Yamato.zip: `4e91eceda20acb2b5ed607ba26f382ecf2aeee0a943dfe1c1b6b20f737d6efe8`
+- Thief_Default_Yamato.zip: `d9c453c284f18e6b2e460f9fea8f57fb0b190a08a88c64c508a8257b61427a4b`
+- Thief_endoFLEX_Yamato.zip: `ee41a31dbd1c8305ac1040ad57e84fbe6823c91780ffe45def75e46f0257cc13`
+- Thief_WhiteRabbit_Yamato.zip: `8bccf3be6254cf02eb371c4e6148d7b7e44dd8ac3379ef903b6f578f85dd1cd6`
+- Thief_KashaYokai_Yamato.zip: `674fafa3672dbf748496ae8aaad1a4053fc5de78d538ab89c2b076b3928f8c5c`
+- Thief_SlickGetter_Yamato.zip: `6b9e1f220122e9e244f1b620ff092e63e729a87c994d46079e6e7a2b7836ec28`
+- Thief_TrespassProtocol_Yamato.zip: `d45c28260c5bb5bf3b60982aeea39b02a5f3ef3acc245566abba3ff851d039b2`
+- Thief_AcidAbyss_Yamato.zip: `305a31c70828d51d9f65cc11bb8b1b30bed4b5811857ed3394973cfd7927508e`
+- Thief_MidnightDecay_Yamato.zip: `a6d22e12b2c8a779c2290285e1f523aea443e12ed65c1fbd4f01f7c3a644d074`
+- Thief_VoxNocturna_Yamato.zip: `2a4063075203fbdf4c9e1b8866449b9142bfd0a305eff103590faedb78aaf3f1`
+- Thief_AchromaticRush_Yamato.zip: `229212df79fbf148530ca9acf1a7188fe7ccdc4bf6025c6518b39a0b6392a572`
